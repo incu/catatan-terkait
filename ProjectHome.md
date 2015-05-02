@@ -1,0 +1,1 @@
+Catatan Terkait adalah skrip untuk memasukan input artikel terkait di bawah artikel
